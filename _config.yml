@@ -12,7 +12,7 @@ author: Sean Leonard
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Introduction: "intro"
+  Introduction: "methods"
   Methods: "methods"
   Datasets: "datasets"
   Results:
