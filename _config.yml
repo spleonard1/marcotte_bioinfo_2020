@@ -14,11 +14,11 @@ author: Sean Leonard
 navbar-links:
   Introduction: "intro"
   Methods: "methods"
-  Datasets: "datasets"
   Results:
     - Community Composition: "composition"
     - Measure Similarity: "measuring"
     - Defined Reduced Communities: "reduced"
+  Discussion: "discussion"
 
 # --- Logo --- #
 
