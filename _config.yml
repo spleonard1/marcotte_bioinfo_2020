@@ -15,9 +15,9 @@ navbar-links:
   Introduction: "intro"
   Methods: "methods"
   Results:
-    - Community Composition: "composition"
-    - Measure Similarity: "measuring"
-    - Defined Reduced Communities: "reduced"
+    - 1. Community Composition: "composition"
+    - 2. Measure Similarity: "measuring"
+    - 3. 3. 3. Defined Reduced Communities: "reduced"
   Discussion: "discussion"
 
 # --- Logo --- #
