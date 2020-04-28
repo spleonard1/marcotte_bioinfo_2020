@@ -12,5 +12,3 @@ But how do we choose which species to include? How do we know that our choices w
 
 To explore this question, I will use my preferred study system, the gut microbiome of honey bees (*Apis mellifera*). These social insects possess a conserved, but simple microbiome that plays essential roles in bee health.
 
-Check out my planned methods here: [[methods]]
-(methods)

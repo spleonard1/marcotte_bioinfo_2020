@@ -4,13 +4,9 @@ title: Designing microbiomes
 subtitle: What's it worth?
 ---
 
-Host-associated bacterial communities can play important roles in host health. These communities are naturally complex, with hundreds or thousands of species present in varied abundances. This complicates microbiome research. 
 
-"Defined communities" are used in research to simplify natural communties. These are collections of known species assembled to replace natural consortia.
+### What functions are in a normal microbiome?
+For each sample (metagenome or isolate) and each function (KEGG Pathway or KEGG Module) I estimated the "completeness"
+Using this vector of completeness values, I performed hierarchical clustering using Euclidean distances between samples
 
-But how do we choose which species to include? How do we know that our choices will be similar to the bacteria present in a "natural" microbiome?
-
-To explore this question, I will use my preferred study system, the gut microbiome of honey bees (*Apis mellifera*). These social insects possess a conserved, but simple microbiome that plays essential roles in bee health.
-
-Check out my planned methods here: [[methods]]
-(methods)
+![Clustered Heatmap](assets/img/composition_heatmap.png)
