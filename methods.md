@@ -13,3 +13,5 @@ In this project I will use publically available data to
 I used three previously publishes sets of metagenomes. 
 
 For cultured isolate genomes, I downloaded them from the sequence read archive.
+
+![workflow](assets/img/workflow.png)
