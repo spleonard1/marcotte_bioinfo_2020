@@ -11,7 +11,8 @@ Host-associated bacterial communities can play important roles in host health. T
 But how do we choose which species to include? How do we know that our choices will be similar to the bacteria present in a "natural" microbiome?
 
 To explore this question, I will use my preferred study system, the gut microbiome of honey bees (*Apis mellifera*). These social insects possess a conserved, and simple, microbiome that plays essential roles in bee health.
-
+![bee intro](assets/img/bee_gut_intro.png)
+![applying defined communities](assets/img/applying_defined_communities.png)
 Thanks to previous researchers we have several important assets to support this approach:
 1. Published metagenomes that deeply sequence the genetic diversity and gene content of individual bees
 2. Hundreds of cultured isolates with whole genome sequences
