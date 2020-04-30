@@ -12,4 +12,4 @@ Colors in the top row of the heatmap below correspond to species designation or 
 
 ![Clustered Heatmap](assets/img/composition_heatmap.png)
 
-![Genome PCA](assets/img/genome_PCA)
+![Genome PCA](assets/img/genome_PCA.png)
