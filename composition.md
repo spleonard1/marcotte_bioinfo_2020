@@ -11,3 +11,5 @@ Using this vector of completeness values, I performed hierarchical clustering us
 Colors in the top row of the heatmap below correspond to species designation or metagenome source. The colors cluster together, indicating that the functions (gene content) within each species 
 
 ![Clustered Heatmap](assets/img/composition_heatmap.png)
+
+![Genome PCA](assets/img/genome_PCA)
