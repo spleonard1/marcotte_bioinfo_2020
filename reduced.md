@@ -4,7 +4,8 @@ title: What are good minimal communities?
 subtitle: 
 ---
 
-###So which communities should we use?
+###So which communities should we use
+
 I next simulated thousands of communities of various sizes (2-, 3-, 4-, 5- members), and asked how similar they were to the "normal" microbiome.
 
 ![communities](assets/img/assembled_communities.png)
